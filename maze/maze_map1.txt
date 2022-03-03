@@ -1,0 +1,21 @@
+0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                                      xx
+xx xxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx x
+xx  xxxx                           xx  x
+xx  xxxxx                       xxxxx  x
+x     xxxxx                 xxxxxxxx   x
+xxx  xxxxxxxxx           xxxxxxxxxx  Sxx
+xx  xxxxxxxxxxx         xxxxxxxxxxx   xx
+xx   xxxxxxxxxxxx     xxxxxxxxxxxxx   xx
+xx   xxxxxxxxx            xxxxxxxxx    x
+xxx  x                       xxxxx     x
+xx  xxx                         xxxxx  x
+xx  x                             xx   x
+x   xxx                         xxx   xx
+xx  xxxxx                     xxxxx   xx
+xx  xxxxxxx                  xxxxxx   xx
+xx  xxxxxxxxx             xxxxxxxxx   xx
+xxx xxxxxxxxxxx       xxxxxxxxxxx     xx
+xxx                                   xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
